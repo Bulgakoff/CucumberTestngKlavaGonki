@@ -27,10 +27,3 @@ Scenario: : Positive test valiation login
 
 
 
-#    Given Initialize test with chrome
-#    And  Navigate to "https://qaclickacademy.com" site
-#    And Click on Login link in home page to land on Secure sign in page
-#    When User enters the <username> & <password> and logs in
-#    Then Verify that user is successfully logged in
-#    And close browser
-
